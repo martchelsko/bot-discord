@@ -1,0 +1,19 @@
+{
+  "name": "evolve-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.0",
+    "node-json-db": "^2.6.0",
+    "sqlite3": "^5.1.7"
+  }
+}
